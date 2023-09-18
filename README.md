@@ -4,7 +4,8 @@ Author: Ng Zheng Jue, Ong Ming Jie, Ng Rui Qi, Tan Hong Guan
 * This is a project developed in undergraduate Year 3 - Semester 1.
 * The repository consists
     * 3 Jupyter notebook files that contains code about how to implement additional layer on diffusion model to increase the sampling speed
-    * If you are interested how it implemented, you can see the **report.pdf** for details
+    * (When using GeForce RTX 3080) The training of each diffusion model takes about 2 GPU hours, and the training of the additional layer takes about 1 GPU 
+    * If you are interested in how it is implemented, you can see the **report.pdf** for details
 * The data we used are CIFAR-10
 
 
