@@ -1,9 +1,9 @@
 # Undergraduate-Y3S1 Fast Sampling Diffusion on large quantities of images using an additional layer
 Author: Ng Zheng Jue, Ong Ming Jie, Ng Rui Qi, Tan Hong Guan 
 
-* This is a project developed in undergraduate Year 1 - Semester 1.
+* This is a project developed in undergraduate Year 3 - Semester 1.
 * The repository consists
-    * Jupyter notebook file that contains code about how to implement additional layer on diffusion model to increase the sampling speed
+    * 3 Jupyter notebook files that contains code about how to implement additional layer on diffusion model to increase the sampling speed
     * If you are interested how it implemented, you can see the **report.pdf** for details
 * The data we used are CIFAR-10
 
