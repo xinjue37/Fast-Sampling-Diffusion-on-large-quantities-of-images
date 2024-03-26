@@ -1,4 +1,4 @@
-# Undergraduate-Y3S1 Fast Sampling Diffusion on large quantities of images using an additional layer
+# Fast Sampling Diffusion on large quantities of images using an additional layer
 Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://github.com/ethanong98), [Ng Rui Qi](https://github.com/Ruiqi2002), Tan Hong Guan 
 
 * This is a project developed in undergraduate Year 3 - Semester 1.
