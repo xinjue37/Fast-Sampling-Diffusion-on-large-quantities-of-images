@@ -2,12 +2,11 @@
 Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://github.com/ethanong98), [Ng Rui Qi](https://github.com/Ruiqi2002), [Tan Hong Guan](https://github.com/tanhg1116) 
 
 * This is a project developed in undergraduate Year 3 - Semester 1.
+* This repository consists of code to **increase the sampling speed of the latest popular neural architecture in image generation -- diffusion model**. The dataset used for experiment is the CIFAR-10 dataset.
 * The repository consists
-    * 3 Jupyter notebook files that contains code about how to implement additional layer on diffusion model to increase the sampling speed
+    * 3 Jupyter notebook files that contain code about how to implement an additional layer on the diffusion model to increase the sampling speed
     * (When using GeForce RTX 3080) The training of each diffusion model takes about 2 GPU hours, and the training of the additional layer takes about 1 GPU 
-    * If you are interested in how it is implemented, you can see the **report.pdf** for details
-* The data we used are CIFAR-10
-
+    * The details implementation of how it works and prove of diffusion model in math is available in [Report.pdf](https://github.com/xinjue37/Fast-Sampling-Diffusion-on-large-quantities-of-images/blob/main/Report.pdf).
 
 ## Abstract
 In recent times, generative models have become a hot topic in the field of Artificial
