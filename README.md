@@ -1,5 +1,5 @@
 # Fast Sampling Diffusion on large quantities of images using an additional layer
-Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://github.com/ethanong98), [Ng Rui Qi](https://github.com/Ruiqi2002), [Tan Hong Guan](https://github.com/tanhg1116) 
+Author: [Ng Zheng Jue](https://github.com/xinjue37), [Tan Hong Guan](https://github.com/tanhg1116), [Ong Ming Jie](https://github.com/ethanong98), [Ng Rui Qi](https://github.com/Ruiqi2002)
 
 * This is a project developed in undergraduate Year 3 - Semester 1 in the course (**Advanced Machine Learning**).
 * This repository consists of code to **increase the sampling speed of the latest popular neural architecture in image generation -- diffusion model**. The dataset used for experiment is the CIFAR-10 dataset.
